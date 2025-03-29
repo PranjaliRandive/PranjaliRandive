@@ -6,7 +6,7 @@ A 3rd year Artificial Intelligence Undergrad
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Open Source Contributions
+- 🔭 I’m currently working on Open Source Contribution
 - 🌱 I’m currently learning AI & ML, Web Development, Problem solving
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
