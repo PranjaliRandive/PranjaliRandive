@@ -1,4 +1,4 @@
-## Hi there 👋 I am Pranjali Randive
+## Hey there 👋 I am Pranjali Randive
 A 3rd year Artificial Intelligence Undergrad
 
 <!--
