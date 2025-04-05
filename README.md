@@ -1,6 +1,9 @@
 ## Hey there 👋 I am Pranjali Randive
 A 3rd year Artificial Intelligence Undergrad
 
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=PranjaliRandive.PranjaliRandive)
+
+
 <!--
 **PranjaliRandive/PranjaliRandive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
