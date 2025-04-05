@@ -3,6 +3,8 @@ A 3rd year Artificial Intelligence Undergrad
 
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=PranjaliRandive.PranjaliRandive)
 
+![Visitors](https://count.getloli.com/get/@PranjaliRandive?theme=rule34)
+
 
 <!--
 **PranjaliRandive/PranjaliRandive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
