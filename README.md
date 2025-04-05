@@ -1,18 +1,13 @@
 ## Hey there 👋 I am Pranjali Randive
 A 3rd year Artificial Intelligence Undergrad
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=PranjaliRandive.PranjaliRandive)
-
-![Visitors](https://count.getloli.com/get/@PranjaliRandive?theme=rule34)
-
-
 <!--
 **PranjaliRandive/PranjaliRandive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Open Source Contribution
-- 🌱 I’m currently learning AI & ML, Web Development, Problem solving
+- 🔭 I’m currently working on Open Source Contribution.
+- 🌱 I’m currently learning AI & ML, Web Development, Problem solving.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
