@@ -60,13 +60,13 @@ A 3rd year Artificial Intelligence Undergrad | Passionate about AI/ML, Web Dev &
 </p>
 
 ---
-
+<!--
 ### 🔗 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-handle)
 [![Portfolio](https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
-
+-->
 ---
 
 ⭐️ From [PranjaliRandive](https://github.com/PranjaliRandive)
