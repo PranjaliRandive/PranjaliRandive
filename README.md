@@ -25,13 +25,6 @@ A 3rd year Artificial Intelligence Undergrad | Passionate about AI/ML, Web Dev &
 
 
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=PranjaliRandive.Pranjalirandive&left_color=blue&right_color=purple" />
-</p>
-
-<p align="center">
-  <b>👀 Profile Views</b>
-</p>
 
 ---
 
