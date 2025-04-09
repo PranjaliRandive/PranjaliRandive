@@ -23,11 +23,6 @@ A 3rd year Artificial Intelligence Undergrad | Passionate about AI/ML, Web Dev &
 
 ---
 
-
-
-
----
-
 ### 🌱 About Me
 
 - 🔭 I’m currently working on **Open Source Contribution**
