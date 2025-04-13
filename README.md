@@ -57,7 +57,6 @@ A 3rd year Artificial Intelligence Undergrad | Passionate about AI/ML, Web Dev &
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PranjaliRandive&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PranjaliRandive&theme=tokyonight" width="48%" />
 </p>
 
 ---
