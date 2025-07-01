@@ -37,11 +37,11 @@ A Final-year Artificial Intelligence Undergrad | Passionate about AI/ML, Web Dev
 ### 🛠️ Skills & Technologies 
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,sql" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,mysql" alt="Programming Languages" />
 </p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,postman,npm" alt="Tech Stack" />
 </p>
 
 <p align="left">
