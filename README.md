@@ -7,6 +7,7 @@ A Final-year Artificial Intelligence Undergrad
 
 Here are some ideas to get you started:
 
+- 
 - 🔭 I’m currently working on Open Source Contribution.
 - 👩‍💻 I'm currently working on the project 'ALUMNI CONNECT' for my college.
 - 🌱 I’m currently learning AI & ML, Web Development, Problem solving.
@@ -26,6 +27,7 @@ A Final-year Artificial Intelligence Undergrad | Passionate about AI/ML, Web Dev
 
 ### 🌱 About Me
 
+- 🏆 Upcoming Intern **@InfosysSpringboardInternship6.0**
 - 🔭 I’m currently working on **Open Source Contribution**
 - 👩‍💻 I'm currently working on the project **'ALUMNI CONNECT'** (Major Project)
 - 🌱 I’m currently learning **AI & ML, Web Development, Problem Solving**
