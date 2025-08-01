@@ -8,6 +8,7 @@ A Final-year Artificial Intelligence Undergrad
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Open Source Contribution.
+- 👩‍💻 I'm currently working on the project 'ALUMNI CONNECT' for my college.
 - 🌱 I’m currently learning AI & ML, Web Development, Problem solving.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -26,6 +27,7 @@ A Final-year Artificial Intelligence Undergrad | Passionate about AI/ML, Web Dev
 ### 🌱 About Me
 
 - 🔭 I’m currently working on **Open Source Contribution**
+- 👩‍💻 I'm currently working on the project **'ALUMNI CONNECT'** (Major Project)
 - 🌱 I’m currently learning **AI & ML, Web Development, Problem Solving**
 - 👯 I’m looking to collaborate on **exciting Tech Projects & Hackathons**
 - 📫 How to reach me: **[randivepranjali1804@gmail.com]**
