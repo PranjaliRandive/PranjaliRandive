@@ -20,8 +20,10 @@ Here are some ideas to get you started:
 -->
 <h2 align="center">Hey there 👋 I'm Pranjali Randive</h2>
 <p align="center">
-A Final-year Artificial Intelligence Undergrad | Passionate about AI/ML, Web Dev & Problem Solving 💻  
+A Final-year Artificial Intelligence Undergrad | Passionate about AI/ML, Web Dev & Problem Solving 💻  <br>
+Visit my website --> <a href="https://pranjalirandive.vercel.app/" target="_blank">https://pranjalirandive.vercel.app/</a>
 </p>
+
 
 ---
 
