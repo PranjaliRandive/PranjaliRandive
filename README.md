@@ -29,6 +29,7 @@ Visit my website --> <a href="https://pranjalirandive.vercel.app/" target="_blan
 
 ### 🌱 About Me
 
+- 🌐🎃👩‍💻 Currently contributing to **Hacktoberfest2025**
 - 🏆 Upcoming Intern **@InfosysSpringboardInternship6.0**
 - 🔭 I’m currently working on **Open Source Contribution**
 - 👩‍💻 I'm currently working on the project **'ALUMNI CONNECT'** (Major Project)
