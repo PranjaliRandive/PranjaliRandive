@@ -41,6 +41,15 @@ Visit my website --> <a href="https://pranjalirandive.vercel.app/" target="_blan
 
 ---
 
+### 🏅 Hacktoberfest 2025 Holopin Profile
+
+I'm participating in **Hacktoberfest 2025** and contributing to open source!  
+Check out my Holopin badge collection here:  
+
+🔗 [View my Holopin Profile](https://www.holopin.io/@pranjalirandive#badges)
+
+---
+
 ### 🛠️ Skills & Technologies 
 
 <p align="left">
@@ -58,10 +67,6 @@ Visit my website --> <a href="https://pranjalirandive.vercel.app/" target="_blan
 <p align="left">
   <img src="https://skillicons.dev/icons?i=dsa,oop,os,networking" alt="CS Fundamentals" />
 </p>
-
-
-
-
 
 ---
 
