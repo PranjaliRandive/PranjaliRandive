@@ -46,7 +46,8 @@ Visit my website --> <a href="https://pranjalirandive.vercel.app/" target="_blan
 I'm participating in **Hacktoberfest 2025** and contributing to open source!  
 Check out my Holopin badge collection here:  
 
-[![Holopin](https://img.shields.io/badge/Holopin-View%20Profile-blue?style=for-the-badge&logo=holopin)](https://holopin.com/@pranjalirandive)
+[![View My Badges](https://img.shields.io/badge/View%20My%20Badges-4CAF50?style=for-the-badge&logo=holopin&logoColor=white)](https://www.holopin.io/@pranjalirandive#badges)
+
 ---
 
 ### 🛠️ Skills & Technologies 
