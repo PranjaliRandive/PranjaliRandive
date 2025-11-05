@@ -1,23 +1,4 @@
-<!--
-## Hey there 👋 I am Pranjali Randive
-A Final-year Artificial Intelligence Undergrad
 
-
-**PranjaliRandive/PranjaliRandive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 
-- 🔭 I’m currently working on Open Source Contribution.
-- 👩‍💻 I'm currently working on the project 'ALUMNI CONNECT' for my college.
-- 🌱 I’m currently learning AI & ML, Web Development, Problem solving.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: She/her
-- ⚡ Fun fact: ...
--->
 <h2 align="center">Hey there 👋 I'm Pranjali Randive</h2>
 <p align="center">
 A Final-year Artificial Intelligence Undergrad | Passionate about AI/ML, Web Dev & Problem Solving 💻  <br>
@@ -84,7 +65,19 @@ Check out my Holopin badge collection here:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-handle)
 [![Portfolio](https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
 -->
----
+
+### 💬 Open Source Contributions
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PranjaliRandive&theme=tokyonight" width="90%" />
+</p>
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PranjaliRandive&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
+</p>
+
 
 ⭐️ From [PranjaliRandive](https://github.com/PranjaliRandive)
 
